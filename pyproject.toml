@@ -1,0 +1,9 @@
+[project]
+name = "movieai"
+version = "0.1.0"
+description = "System that leverages the prepared movie data and LLMs to generate outputs like personalized movie recommendations, user preference summaries, & comparative analyses (e.g., comparing movies based on budget, revenue, or runtime)"
+    readme = "README.md"
+    requires-python = ">=3.14"
+dependencies = [
+    "langchain-anthropic>=1.4.1",
+]

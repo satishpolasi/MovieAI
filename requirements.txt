@@ -1,0 +1,10 @@
+python-dotenv
+pandas
+pydantic
+numpy
+structlog
+langchain_anthropic
+langchain-core
+langchain_openai
+langchain_google_genai
+-e .

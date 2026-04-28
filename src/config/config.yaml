@@ -1,0 +1,18 @@
+llm:
+  openai:
+    provider: "openai"
+    model_name: "gpt-5-nano"
+    temperature: 0
+    max_output_tokens: 2000
+
+  anthropic:
+    provider: "anthropic"
+    model_name: "claude-sonnet-4-20250514"
+    temperature: 0
+    max_output_tokens: 2000
+
+  google:
+    provider: "google"
+    model_name: "gemini-2.5-flash"
+    temperature: 0
+    max_output_tokens: 2000
