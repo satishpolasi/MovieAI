@@ -24,3 +24,5 @@ git config --global user.name "<your_user_name>" # you need this command only if
 git config user.email "<your_github_account_email>" # you need this command only if you are configure git for the first time in this machine
 
 #6. experiments.ipynb all the experiments with outputs
+
+#7. Defined folder structure for modular coding
